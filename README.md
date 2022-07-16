@@ -7,8 +7,8 @@ Password Generator is software tool that create customized passwords for users. 
 ![password](./Assets/Screenshoot.png)
 
 ## Link to Website
-https://b-smd.github.io/week3homework/
-https://github.com/B-smd/week3homework  
+https://b-smd.github.io/Password-Generator/
+https://github.com/B-smd/Password-Generator  
 [link](https://www.owasp.org/index.php/Password_special_characters)
 
 ## Technologies Used
